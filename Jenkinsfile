@@ -1,4 +1,4 @@
-#Jenkinsfile (Scripted Pipeline)
+//Jenkinsfile (Scripted Pipeline)
 node {
     checkout scm 
     stage('build building container') {
